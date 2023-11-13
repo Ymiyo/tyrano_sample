@@ -15,7 +15,7 @@
 
 [cm]
 
-[bg storage=chibikko_gang.jpg time=500]
+[bg storage=chibikko_gang.png time=500]
 
 「鼻水じゅーるじゅる」[l][r]
 
@@ -25,11 +25,11 @@
 
 (りゅう)久しぶりだな！おまえら！[l][r]
 
-(???)。。。
+(???)。。。[l][r]
 
 (りゅう)元気してたか！たつひこ！かなで！[l][r]
 
-(たつひこ・かなで)。。。
+(たつひこ・かなで)。。。[l][r]
 
 (りゅう)じゃあ、たつひこ！おまえからだ！[l][r]
 
@@ -45,7 +45,7 @@
 
 [cm]
 
-[bg storage=chibikko_gang.jpg time=500]
+[bg storage=chibikko_gang.png time=500]
 
 (りゅう)たつひこ！いつものやつだ！[l][r]
 
@@ -61,29 +61,33 @@
 
 [freeimage layer="base"]
 
-
+りゅうはとてもびっくりし、その場で立ち止まった。[l][r]
 
 [bg storage=sleep.jpg time=500]
 
-メロスは死んだように深く眠った。[l][r]
-勇者は、ひどく赤面した。[r]
+そして、りゅうは死んだように深く眠った。[l][r]
+あなたは、とても満足した。[r]
 
-【 BAD END 】[l][cm]
+【 GOOD END 】[l][cm]
 
 [jump target=*start]
 
 *tag_run
 
+[cm]
+
 [freeimage layer="base"]
 
+もう耐えられない！[l][r]
 
+[cm]
 
 [bg storage=run.jpg time=500]
 
-[cm]
-メロスは黒い風のように走った。[l][r]
-陽は、ゆらゆら地平線に没し、まさに最後の一片の残光も、消えようとした時、メロスは疾風の如く刑場に突入した。間に合った。[r]
+あなたは恐怖のあまり逃げ出してしまった！[l][r]
+この逃亡によりあなたとりょうの上下関係は決定的なものとなった。[l][r]
+そして、あゆみまでも。。。[l][r]
 
-【 GOOD END 】[l][cm]
+【 BAD END 】[l][cm]
 
 [jump target=*start]
