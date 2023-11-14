@@ -23,9 +23,9 @@
 
 [freeimage layer="base"]
 
-[image layer=1 storage=hanamizu_jurujuru_title_2.png visible=true top=100 left=150]
+[bg storage=hanamizu_jurujuru_title_2.png time=500]
 
-[locate x=200 y=300 ]
+[locate x=450 y=600 ]
 [button graphic="button_start.png" target=*first]
 
 [s]
@@ -35,6 +35,8 @@
 *first
 
 [cm]
+
+[freeimage layer="base"]
 
 [bg storage=chibikko_gang.png time=500]
 @layopt layer=message0 visible=true
