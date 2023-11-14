@@ -15,11 +15,29 @@
 
 [cm]
 
-[bg storage=chibikko_gang.png time=500]
 
-「鼻水じゅーるじゅる」[l][r]
+
+*title
+
+@layopt layer=message0 visible=false
+
+[freeimage layer="base"]
+
+[image layer=1 storage=hanamizu_jurujuru_title_2.png visible=true top=100 left=150]
+
+[locate x=200 y=300 ]
+[button graphic="button_start.png" target=*first]
+
+[s]
+
+
+
+*first
 
 [cm]
+
+[bg storage=chibikko_gang.png time=500]
+@layopt layer=message0 visible=true
 
 (りゅう)よーーし[l][r]
 
@@ -49,13 +67,17 @@
 
 (りゅう)たつひこ！いつものやつだ！[l][r]
 
-りゅうが鼻水を自分の両手につけ、自分の口につっこもうとしてきた！！！[l][r]　
+じゅるじゅるじゅる～[l][r]
 
-[link target=*tag_sleep] →注意する [endlink][r]
+りゅうが鼻水を両手につけ、自分の口につっこもうとしてきた！！！[l][r]　
+
+[link target=*tag_teach] →注意する [endlink][r]
 [link target=*tag_run] →逃げ出す [endlink][r]
 [s]
 
-*tag_sleep
+
+
+*tag_teach
 
 [cm]
 
@@ -70,7 +92,9 @@
 
 【 GOOD END 】[l][cm]
 
-[jump target=*start]
+[jump target=*title]
+
+
 
 *tag_run
 
@@ -90,4 +114,4 @@
 
 【 BAD END 】[l][cm]
 
-[jump target=*start]
+[jump target=*title]
