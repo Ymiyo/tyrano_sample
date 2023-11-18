@@ -5,9 +5,16 @@
 [wait time=200]
 [freeimage layer="base"]
 
-[position layer="message0" top="440" margint="50" marginr="50" frame="frame_2.png"]
+[position color="30x000000" opacity="128"]
+[position left="25" top="500" width="1200" height="200"]
+[position margint="10" marginl="25" marginr="25" marginb="10"]
+
+;[position frame="frame_2.png"]
+;[position margint="10" marginl="25" marginr="25" marginb="10"]
 
 [bg storage=run.jpg time=500]
+
+;変更2[l][r]
 
 なんか風邪っぽい。。。[l][r]
 
@@ -47,11 +54,11 @@
 
 (りゅう)久しぶりだな！おまえら！[l][r]
 
-(???)。。。[l][r]
+(???)。。。[p]
 
 (りゅう)元気してたか！たつひこ！かなで！[l][r]
 
-(たつひこ・かなで)。。。[l][r]
+(たつひこ・かなで)。。。[p]
 
 (りゅう)じゃあ、たつひこ！おまえからだ！[l][r]
 
@@ -71,7 +78,7 @@
 
 (りゅう)たつひこ！いつものやつだ！[l][r]
 
-じゅるじゅるじゅる～[l][r]
+じゅるじゅるじゅる～[p]
 
 りゅうが鼻水を両手につけ、自分の口につっこもうとしてきた！！！[l][r]　
 
