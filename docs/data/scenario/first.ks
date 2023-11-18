@@ -14,8 +14,6 @@
 
 [bg storage=run.jpg time=500]
 
-;変更2[l][r]
-
 なんか風邪っぽい。。。[l][r]
 
 あ、鼻水垂れてきた[l][r]
@@ -34,7 +32,7 @@
 
 [bg storage=title_back.png time=500]
 
-[image layer="1" x="150" y="150" storage="hanamizu_jurujuru_title_2.png"]
+[image layer="1" x="150" y="150" storage="data/hanamizu_jurujuru_title_2.png"]
 
 [locate x=450 y=600 ]
 [button graphic="button_start.png" target=*first]
