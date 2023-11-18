@@ -66,6 +66,9 @@
 
 [freeimage layer="base"]
 
+[bg storage=default_back_2.png time=500]
+
+
 (天の声)あなたはたつひこです。[l][r]
 
 (天の声)お分かりの通り、あなたは年下のりゅうに見下されています。[l][r]
