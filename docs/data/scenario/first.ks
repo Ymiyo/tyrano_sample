@@ -94,7 +94,7 @@
 
 [freeimage layer="base"]
 
-りゅうはとてもびっくりし、その場で立ち止まった。[l][r]
+りゅうはとてもびっくりし、その場で立ち止まった。[p]
 
 [bg storage=sleep.jpg time=500]
 
@@ -113,7 +113,7 @@
 
 [freeimage layer="base"]
 
-もう耐えられない！[l][r]
+もう耐えられない！[p]
 
 [cm]
 
