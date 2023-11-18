@@ -5,8 +5,7 @@
 [wait time=200]
 [freeimage layer="base"]
 
-[position layer="message0" frame="frame_2.png" left=0 top=500 width=1280 height=220 visible=true]
-[position layer=message0 margint="0" marginl="240" marginr="210" marginb="20"]
+[position layer="message0" top="440" margint="50" marginr="50" frame="frame_2.png"]
 
 [bg storage=run.jpg time=500]
 
