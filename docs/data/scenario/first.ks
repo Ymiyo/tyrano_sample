@@ -30,9 +30,9 @@
 
 [freeimage layer="base"]
 
-[bg storage=title_back.png time=500]
+[bg storage=title_back_2.png time=500]
 
-[image layer="1" x="0" y="0" storage="hanamizu_jurujuru_title_2.png"]
+;[image layer="1" x="0" y="0" storage="hanamizu_jurujuru_title_2.png"]
 
 [locate x=450 y=600 ]
 [button graphic="button_start.png" target=*first]
