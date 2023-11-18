@@ -47,7 +47,7 @@
 
 [freeimage layer="base"]
 
-[bg storage=chibikko_gang.png time=500]
+[bg storage=default_back.png time=500]
 @layopt layer=message0 visible=true
 
 (りゅう)よーーし[l][r]
@@ -74,7 +74,7 @@
 
 [cm]
 
-[bg storage=chibikko_gang.png time=500]
+[bg storage=default_back.png time=500]
 
 (りゅう)たつひこ！いつものやつだ！[l][r]
 
